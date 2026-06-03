@@ -106,9 +106,3 @@ corrida_simplificado/
 - `$_SESSION` para usuário logado.
 - `setcookie()` para lembrar e-mail e último acesso.
 - Token CSRF em formulários POST sensíveis.
-
-## Observação sobre a refatoração
-
-Esta versão foi simplificada para facilitar a defesa individual do código.
-Os nomes de variáveis, rotas, pastas de views, classes CSS próprias e comentários foram mantidos ou ajustados para português sempre que possível.
-As classes do Bootstrap continuam em inglês porque fazem parte do próprio framework.

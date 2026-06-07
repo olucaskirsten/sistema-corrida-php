@@ -37,7 +37,7 @@ http://localhost/corrida_simplificado/index.php
 ## Estrutura do projeto
 
 ```text
-corrida_simplificado/
+sistema-corrida-php/
 ├── index.php
 ├── app/
 │   ├── controllers/
